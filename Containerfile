@@ -1,6 +1,6 @@
 FROM ubuntu:26.04 AS source
 
-ADD --checksum=sha256:cbad7bf4be2607e1725db156d73c799d267a79fc29a572c3136a5deb9c9be948 https://github.com/darktable-org/darktable/releases/download/release-5.6.0/Darktable-5.6.0-x86_64.AppImage /tmp/source
+ADD --checksum=sha256:867ba61fca41d614e6650fd92d6e7968d8c56a1d1dd2bbc3aa06b52508694ed6 https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-x86_64.AppImage /tmp/source
 
 RUN chmod 0755 /tmp/source && \
     cd /tmp && \

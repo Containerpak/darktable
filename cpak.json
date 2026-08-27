@@ -3,7 +3,7 @@
   "manifest_version": "2.0",
   "name": "darktable",
   "description": "Develop and manage raw photographs.",
-  "version": "5.6.0",
+  "version": "5.6.1",
   "image": "ghcr.io/containerpak/darktable:main",
   "binaries": [
     "/usr/bin/darktable"
