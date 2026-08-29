@@ -4,7 +4,7 @@
   "name": "darktable",
   "description": "Develop and manage raw photographs.",
   "version": "5.6.1",
-  "image": "ghcr.io/containerpak/darktable@sha256:3376abe025511226516768149251ec81df3c7956c05ce644e826a3dfe8363bfa",
+  "image": "ghcr.io/containerpak/darktable@sha256:336e6012ba51b4ca83f9b279f1e21c2451cc90e585bca2258c2f230af3c90e10",
   "binaries": [
     "/usr/bin/darktable"
   ],
